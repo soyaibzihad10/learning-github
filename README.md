@@ -1,3 +1,1 @@
 # learning-github
-
-git checkout checking
